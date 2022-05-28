@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    background-color: black;
+    color: white;
+}
+
+li{
+    list-style: none;
+}
+
+.block{
+    display: flex;
+    padding: 20px 20px 20px 0px;
+    border-bottom: 1px solid black;
+    background-color: black;
+}
+
+.space{
+    font-size: 40px;
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.space:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+
+.space2{
+    text-decoration: none;
+}
+
+.falcon{
+    font-size: 15px;
+    margin-top: 22px;
+    margin-left: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.falcon:hover{
+    transition-duration: 1s;
+    color: gray ;
+}
+
+.falcon2{
+    text-decoration: none;
+}
+
+.heavy{
+    font-size: 15px;
+    margin-top: 22px;
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.heavy:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+
+.heavy2{
+    text-decoration: none;
+}
+
+.dragon{
+    font-size: 15px;
+    margin-top: 22px;
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.dragon:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+
+.dragon2{
+    text-decoration: none;
+}
+
+.starship{
+    font-size: 15px;
+    margin-top: 22px;
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.starship:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+
+.starship2{
+    text-decoration: none;
+}
+
+.human{
+    font-size: 15px;
+    margin-top: 22px;
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.ride{
+    font-size: 15px;
+    margin-top: 22px;
+    margin-left: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.shop{
+    font-size: 15px;
+    margin-top: 22px;
+    margin-left: 220px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: 700;
+}
+
+.icon1{
+    color: white;
+    font-size: 26px;
+    margin-top: 18px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+.block1{
+    text-align: center;
+}
+.falcon9{
+    margin-top: 100px;
+    font-size: 70px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.first{
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.main-block2{
+    display: flex;
+    text-align: center;
+}
+.block2{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 300px;
+}
+.one{
+    font-size: 105px;
+    margin: 100px 0px 0 20px;
+}
+.total{
+    margin: 20px 0 0 30px;
+    font-size: 17px;
+}
+.block3{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 100px;
+}
+.two{
+    font-size: 105px;
+    margin: 100px 0px 0 20px;
+}
+.landing{
+    margin: 20px 0 0 17px;
+    font-size: 17px;
+}
+.block4{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 100px;
+}
+.three{
+    font-size: 105px;
+    margin: 100px 0px 0 20px;
+}
+.reflown{
+    margin: 20px 0 0 5px;
+    font-size: 17px;
+}
+.main-block3{
+
+}
+.block5{
+    width: 500px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    margin: 300px 0 0 40px;     
+}
+.block6{
+    font-family: 'Poppins', sans-serif;
+    margin: 50px 0 0 40px;
+}
+.over{
+    font-size: 20px;
+}
+.view{
+    font-size: 40px;
+    font-weight: 700;
+}
+.block7{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-left: 40px;
+    margin-right: 732px;
+}
+.height{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 20px 0px;
+}
+.height1{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 0 409px;
+    color: gray;
+}
+.color{
+    color: white;
+}
+.diameter{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 20px 0px;
+}
+.diameter1{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 0 415px;
+    color: gray;
+}
+.color{
+    color: white;
+}
+.mass{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 20px 0px;
+}
+.mass1{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 0 322px;
+    color: gray;
+}
+.color{
+    color: white;
+}
+.payload{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 20px 0px;
+}
+.payload1{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 0 337px;
+    color: gray;
+}
+.color{
+    color: white;
+}
+.gto{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 20px 0px;
+}
+.gto1{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 0 232px;
+    color: gray;
+}
+.color{
+    color: white;
+}
+.mars{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 20px 0px;
+}
+.mars1{
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+    margin: 20px 0 0 244px;
+    color: gray;
+}
+.color{
+    color: white;
+}
+.block12{
+    background-color: black;
+    padding: 50px 20px 20px 50px;
+    margin-top: 100px;
+    text-align: center;
+    display: flex;
+}
+.spacex{
+    color: gray;
+    margin-top: -13px;
+    margin-left: 300px;
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+}
+.twitter{
+    color: white;
+    margin-top: -17px;
+    margin-left: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.twitter:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+.youtube{
+    color: white;
+    margin-top: -17px;
+    margin-left: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.youtube:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+.insta{
+    color: white;
+    margin-top: -17px;
+    margin-left: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.insta:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+.flickr{
+    color: white;
+    margin-top: -17px;
+    margin-left: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.flickr:hover{
+    transition-duration: 1s;
+    color: gray;
+}
+.linkedin{
+    color: white;
+    margin-top: -17px;
+    margin-left: 40px;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+}
+.linkedin:hover{
+    transition-duration: 1s;
+    color: gray;
+}

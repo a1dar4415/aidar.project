@@ -1,0 +1,527 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+.block-1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 20px 20px 20px 0px;
+  border-bottom: 1px solid black;
+  background-color: black;
+}
+
+li {
+  list-style: none;
+}
+
+.space {
+  font-size: 40px;
+  margin-left: 20px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.space:hover{
+  transition-duration: 1s;
+  color: gray;
+}
+
+.space2{
+  text-decoration: none;
+}
+
+.falcon {
+  font-size: 15px;
+  margin-top: 22px;
+  margin-left: 100px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+
+.falcon:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.falcon2 {
+  text-decoration: none;
+}
+
+.heavy {
+  font-size: 15px;
+  margin-top: 22px;
+  margin-left: 30px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+
+.heavy:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.heavy2 {
+  text-decoration: none;
+}
+
+.dragon {
+  font-size: 15px;
+  margin-top: 22px;
+  margin-left: 30px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+
+.dragon:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.dragon2 {
+  text-decoration: none;
+}
+
+.starship {
+  font-size: 15px;
+  margin-top: 22px;
+  margin-left: 30px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+
+.starship:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.starship2 {
+  text-decoration: none;
+}
+
+.human {
+  font-size: 15px;
+  margin-top: 22px;
+  margin-left: 30px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+
+.human:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.human2 {
+  text-decoration: none;
+}
+
+.ride {
+  font-size: 15px;
+  margin-top: 22px;
+  margin-left: 30px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+
+.ride:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.ride2 {
+  text-decoration: none;
+}
+
+.shop {
+  font-size: 15px;
+  margin-top: 22px;
+  margin-left: 220px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+}
+
+.shop:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.icon1 {
+  font-size: 26px;
+  margin-top: 21px;
+  margin-left: 20px;
+  color: white;
+  font-weight: 700;
+}
+
+.img {
+  background-image: url(https://s.france24.com/media/display/3b0acc0e-077f-11e9-9de0-005056a964fe/w:1280/p:1x1/300317_spacex_rocket.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 40px 0px 0px 40px;
+  border: 1px solid white;
+  width: 900px;
+  height: 450px;
+}
+
+.resent {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin: 10px 10px 5px 40px;
+}
+
+.starlink {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  margin: 0px 0px 0px 40px;
+}
+
+.block3 {
+  border: 2px solid lightgray;
+  margin: 40px 0 0 40px;
+  width: 140px;
+  height: 40px;
+}
+
+.block3:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.watch {
+  font-family: "Poppins", sans-serif;
+  margin-left: 35px;
+  margin-top: 12.5px;
+  text-decoration: none;
+  font-size: 13px;
+  position: relative;
+  top: 27%;
+  color: black;
+}
+
+.watch:hover {
+  color: white;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+.img1 {
+  background-image: url(https://3dnews.ru/assets/external/illustrations/2021/05/27/1040542/79agSRHKGmX7tvCjsvf2ta.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 130px 0px 0px 40px;
+  border: 1px solid white;
+  width: 900px;
+  height: 450px;
+}
+
+.launch {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin: 10px 10px 5px 40px;
+}
+
+.mission {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  margin: 0px 0px 0px 40px;
+}
+
+.block5 {
+  border: 2px solid lightgray;
+  margin: 40px 0 0 40px;
+  width: 140px;
+  height: 40px;
+}
+
+.block5:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.watch2 {
+  font-family: "Poppins", sans-serif;
+  margin-left: 35px;
+  margin-top: 12.5px;
+  text-decoration: none;
+  font-size: 13px;
+  position: relative;
+  top: 27%;
+  color: black;
+}
+
+.watch2:hover {
+  color: white;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+.img2 {
+  background-image: url(https://i.ytimg.com/vi/zBxHrNIzp9w/maxresdefault.jpg?v=61f8906f);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 130px 0px 0px 40px;
+  border: 1px solid white;
+  width: 900px;
+  height: 450px;
+}
+
+.launch1 {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin: 10px 10px 5px 40px;
+}
+
+.cosmo {
+  font-size: 40px;
+  width: 500px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  margin: 0px 0px 0px 40px;
+}
+
+.block7 {
+  border: 2px solid lightgray;
+  margin: 40px 0 0 40px;
+  width: 140px;
+  height: 40px;
+}
+
+.block7:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.watch3 {
+  font-family: "Poppins", sans-serif;
+  margin-left: 35px;
+  margin-top: 12.5px;
+  text-decoration: none;
+  font-size: 13px;
+  position: relative;
+  top: 27%;
+  color: black;
+}
+
+.watch3:hover {
+  color: white;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+.img3 {
+  background-image: url(https://www.nasaspaceflight.com/wp-content/uploads/2022/01/dragon.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 130px 0px 0px 40px;
+  border: 1px solid white;
+  width: 900px;
+  height: 450px;
+}
+
+.launch2 {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin: 10px 10px 5px 40px;
+}
+
+.returns {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  width: 450px;
+  margin: 0px 0px 0px 40px;
+}
+
+.block9 {
+  border: 2px solid lightgray;
+  margin: 40px 0 0 40px;
+  width: 140px;
+  height: 40px;
+}
+
+.block9:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.watch4 {
+  font-family: "Poppins", sans-serif;
+  margin-left: 35px;
+  margin-top: 12.5px;
+  text-decoration: none;
+  font-size: 13px;
+  position: relative;
+  top: 27%;
+  color: black;
+}
+
+.watch4:hover {
+  color: white;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+.img4 {
+  background-image: url(http://www.nasa.gov/sites/default/files/thumbnails/image/for_press_release.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin: 130px 0px 0px 40px;
+  border: 1px solid white;
+  width: 900px;
+  height: 450px;
+}
+
+.launch3 {
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  margin: 10px 10px 5px 40px;
+}
+
+.land {
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  width: 450px;
+  margin: 0px 0px 0px 40px;
+}
+
+.block11 {
+  border: 2px solid lightgray;
+  margin: 40px 0 0 40px;
+  width: 140px;
+  height: 40px;
+}
+
+.block11:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  background-color: black;
+  border: 1px solid black;
+}
+
+.watch5 {
+  font-family: "Poppins", sans-serif;
+  margin-left: 30px;
+  margin-top: 12.5px;
+  text-decoration: none;
+  font-size: 13px;
+  position: relative;
+  top: 27%;
+  color: black;
+}
+
+.watch5:hover {
+  color: white;
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+}
+
+.block12 {
+  background-color: black;
+  padding: 50px 20px 20px 50px;
+  margin-top: 100px;
+  text-align: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.spacex {
+  color: gray;
+  margin-top: -17px;
+  margin-left: 300px;
+  font-size: 12px;
+  font-family: "Poppins", sans-serif;
+}
+
+.twitter {
+  color: white;
+  margin-top: -17px;
+  margin-left: 40px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.twitter:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.youtube {
+  color: white;
+  margin-top: -17px;
+  margin-left: 40px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.youtube:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.insta {
+  color: white;
+  margin-top: -17px;
+  margin-left: 40px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.insta:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.flickr {
+  color: white;
+  margin-top: -17px;
+  margin-left: 40px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.flickr:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
+
+.linkedin {
+  color: white;
+  margin-top: -17px;
+  margin-left: 40px;
+  font-family: "Poppins", sans-serif;
+  text-decoration: none;
+}
+
+.linkedin:hover {
+  -webkit-transition-duration: 1s;
+          transition-duration: 1s;
+  color: gray;
+}
